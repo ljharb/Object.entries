@@ -1,6 +1,6 @@
 {
 	"name": "object.entries",
-	"version": "1.1.8",
+	"version": "1.1.9",
 	"author": "Jordan Harband",
 	"description": "ES2017 spec-compliant Object.entries shim.",
 	"license": "MIT",
